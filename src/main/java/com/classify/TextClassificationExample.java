@@ -30,7 +30,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * @author 林湖
+ * @author lh
  * @version 1.0
  */
 public class TextClassificationExample {
