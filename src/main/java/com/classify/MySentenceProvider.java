@@ -6,7 +6,7 @@ import org.nd4j.common.primitives.Pair;
 import java.util.*;
 
 /**
- * @author 林湖
+ * @author lh
  * @version 1.0
  */
 public class MySentenceProvider implements LabeledSentenceProvider {
