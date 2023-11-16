@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory;
 import java.io.File;
 
 /**
- * @author 林湖
+ * @author lh
  * @version 1.0
  */
 public class Word2VecUtil {
